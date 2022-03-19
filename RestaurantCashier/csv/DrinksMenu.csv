@@ -1,0 +1,26 @@
+6
+Menu,ID,Name,Quantity,Unit,Price
+Drinks,22201,Still Water 200ml,1,Glass,0.99
+Drinks,22202,Still Water 1 liter,1,Bottle,2.99
+Drinks,22203,Sparkling Water 330ml,1,Bottle,1.59
+Drinks,22204,Fruit Tea,1,Cup,1.99
+Drinks,22205,Green Tea,1,Cup,1.99
+Drinks,22206,Black Tea,1,Cup,1.99
+Drinks,22207,Lemon Tea,1,Cup,1.99
+Drinks,22208,Honey Tea,1,Cup,2.99
+Drinks,22209,Black Coffee,1,Cup,1.99
+Drinks,22210,Flat Coffee,1,Cup,2.29
+Drinks,22211,White Coffee,1,Cup,2.59
+Drinks,22212,Cappucchino,1,Cup,2.99
+Drinks,22213,Latte,1,Cup,2.99
+Drinks,22214,Mokka,1,Cup,2.99
+Drinks,22215,Pepsi 330ml,1,Can,1.29
+Drinks,22216,7UP 330ml,1,Can,1.29
+Drinks,22217,Mirinda 330ml,1,Can,1.29
+Drinks,22218,Light Beer 500ml,1,Glass,3.99
+Drinks,22219,Dark Beer 500ml,1,Glass,4.29
+Drinks,22220,White Beer 500ml,1,Glass,4.29
+Drinks,22221,Guinness 500ml,1,Can,5.99
+Drinks,22222,Jack Daniels 40ml,1,Glass,12
+Drinks,22223,Grants 40ml,1,Glass,14
+Drinks,22224,Alexandria 40ml,1,Glass,9.99

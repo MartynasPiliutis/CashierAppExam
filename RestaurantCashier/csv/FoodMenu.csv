@@ -1,0 +1,22 @@
+6
+Menu,ID,Name,Quantity,Unit,Price
+Food,11101,Ceasar Salad,1,Portion,2.99
+Food,11102,White Salad,1,Portion,2.59
+Food,11103,Carrot Salad,1,Portion,3.99
+Food,11104,Chilli Soup,1,Portion,4.99
+Food,11105,Charchoo,1,Portion,4.59
+Food,11106,Cabage Soup,1,Portion,2.29
+Food,11107,Beef Steak,1,Portion,25
+Food,11108,Chicken Breast,1,Portion,9.99
+Food,11109,Chicken Leg,1,Portion,8.79
+Food,11110,Chicken Wings,1,Portion,5.99
+Food,11111,Zeppelins,1,Portion,5.69
+Food,11112,Meat Dumplings,1,Portion,3.99
+Food,11113,Cottage Dumplings,1,Portion,3.59
+Food,11114,Choco Ice Cream,1,Portion,1.99
+Food,11115,Banana Ice Cream,1,Portion,1.99
+Food,11116,Vanilla Ice Cream,1,Portion,1.99
+Food,11117,Carrot Cake,1,Piece,3.29
+Food,11118,Apple Pie,1,Piece,2.99
+Food,11119,Cream Cake,1,Piece,4.59
+Food,11120,Pineapple Desert,1,Portion,5.99

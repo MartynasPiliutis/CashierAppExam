@@ -1,0 +1,26 @@
+--------------------------------------------------
+Client          Table01    Receipt    55500194  
+--------------------------------------------------
+Charchoo                  1          €4.59     
+Chicken Leg               1          €8.79     
+Cottage Dumplings         1          €3.59     
+Pineapple Desert          1          €5.99     
+Honey Tea                 1          €2.99     
+Sparkling Water 330ml     1          €1.59     
+White Beer 500ml          1          €4.29     
+Light Beer 500ml          1          €3.99     
+Pepsi 330ml               1          €1.29     
+Alexandria 40ml           1          €9.99     
+Alexandria 40ml           1          €9.99     
+Alexandria 40ml           1          €9.99     
+Flat Coffee               1          €2.29     
+Guinness 500ml            1          €5.99     
+Latte                     1          €2.99     
+Latte                     1          €2.99     
+Chicken Leg               1          €8.79     
+Carrot Salad              1          €3.99     
+Carrot Salad              1          €3.99     
+--------------------------------------------------
+Table01         Total Price:    €98.11         
+--------------------------------------------------
+2022-03-18 22:14:25
